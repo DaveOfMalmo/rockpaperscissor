@@ -1,0 +1,13 @@
+body {
+    background-color: #4679b5;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#heading {
+    font-size: 32px;
+    font-weight: 200;
+}
+
+#gameContainer {
+    padding: 5px;
+}
